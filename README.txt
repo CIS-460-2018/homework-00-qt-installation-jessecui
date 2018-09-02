@@ -1,0 +1,1 @@
+Hi! This is a README.txt file for my Homework 00 submission - Jesse Cui
